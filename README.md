@@ -1,0 +1,7 @@
+# git-test-coursera-HKUST-react-course1
+online git repository test for Coursera HKUST react specialization course 1 week 1
+
+
+a new master branch has been created which has one index.html file and another folder called templates and inside 
+templates a test.html file. 
+
